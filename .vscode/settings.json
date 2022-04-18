@@ -1,0 +1,7 @@
+{
+    "java.debug.settings.vmArgs": "-Xss515m -ea",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "MathParser.org-mXparser-v.4.4.0-jdk13.jar"
+    ]
+}
